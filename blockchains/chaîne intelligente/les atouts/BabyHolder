@@ -1,0 +1,9 @@
+    "name": "BabyHolder",
+    "website": "https://babyholder1.wixsite.com/babyholder",
+    "description": "Baby Holder, is a sui generis project that could trigger a very interesting trend in the crypto world.",
+    "explorer": "https://bscscan.com/token/0xC64ea39279B33e9856cD53BB159a37a15f579C83",
+    "type": "BEP20",
+    "symbol": "BabyHolder",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xC64ea39279B33e9856cD53BB159a37a15f579C83"
